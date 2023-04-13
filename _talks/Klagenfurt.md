@@ -4,7 +4,7 @@ collection: talks
 permalink: /talks/Klagenfurt
 date: August 03, 2022
 venue: "Austria"
-location: "Klagenfurt"
+type: "Klagenfurt"
 ---
 
 Talk about Confidence in Causal Discovery with Linear Causal Models.

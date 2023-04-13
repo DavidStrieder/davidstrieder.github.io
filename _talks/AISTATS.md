@@ -1,12 +1,12 @@
 ---
-title: "IMS International Conference on Statistics and Data Science (ICSDS)"
+title: "26th International Conference on Artificial Intelligence and Statistics (AISTATS)"
 collection: talks
-permalink: /talks/ICSDS
-date: December 15, 2022
-venue: "Florence, Italy"
-type: "Poster"
+permalink: /talks/AISTATS
+date: April 27, 2023
+venue: "Spain"
+type: "Valencia"
 ---
 
-Poster presentation about Confidence in Causal Discovery with Linear Causal Models. 
+Poster presentation about Rank-Based Causal Discovery for Post-Nonlinear Models. 
 
 [Download Poster here](http://davidstrieder.github.io/files/icsds_strieder.pdf)
