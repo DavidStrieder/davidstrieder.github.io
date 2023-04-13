@@ -17,7 +17,7 @@ author_profile: true
 
 ## Thesis Supervisor
 
-
+- <b> SS 2023 </b> Regularized Rank Regression for Transformation Models, Masters Thesis
 - <b> WS 2022/23 </b> Credible Intervals for Causal Effects in Linear Causal Models, Masters Thesis
 - <b> WS 2022/23 </b> Confindence in Causal Inference from Interventional Data, Masters Thesis
 - <b> SS 2022 </b> Active Bayesian Causal Discovery for Gaussian Process Networks, Masters Thesis
