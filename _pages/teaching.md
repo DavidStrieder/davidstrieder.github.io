@@ -19,8 +19,8 @@ author_profile: true
 
 - <b> SS 2023 </b> Regularized Rank Regression for Transformation Models, Masters Thesis
 - <b> WS 2022/23 </b> Credible Intervals for Causal Effects in Linear Causal Models, Masters Thesis
-- <b> WS 2022/23 </b> Confindence in Causal Inference from Interventional Data, Masters Thesis
+- <b> WS 2022/23 </b> Confidence in Causal Inference from Interventional Data, Masters Thesis
 - <b> SS 2022 </b> Active Bayesian Causal Discovery for Gaussian Process Networks, Masters Thesis
 - <b> SS 2022 </b> Post-Nonlinear Gaussian Causal Models, Masters Thesis
-- <b> SS 2021 </b> Bivaraite Causal Discovery with non-linear Models, Bachelors Thesis
+- <b> SS 2021 </b> Bivariate Causal Discovery with non-linear Models, Bachelors Thesis
 - <b> WS 2020/21 </b> Two Likelihood-Ratio Based Approaches for Estimating the Causal Effect in Linear Structural Equation Models, Masters Thesis
