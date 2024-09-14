@@ -10,9 +10,9 @@ author_profile: true
 ## Teaching Assistant
 
 
-- <b> WS 2021/22 </b> Seminar: Nonlinear Methods in Causal Inference
+- <b> WS 2021/22 </b> Nonlinear Methods in Causal Inference
 - <b> SS  2021 </b> TUM Data Innovation Lab: [A robust comparison of causal effects from observational data in healthcare](https://www.mdsi.tum.de/en/di-lab/vergangene-projekte/ss2021-helmholtzai-a-robust-comparison-of-causal-effects-from-observational-data-in-healthcare/)
-- <b> WS 2020/21 </b> Lecture: Generalized Linear Models
+- <b> WS 2020/21 </b> Generalized Linear Models
 
 
 ## Thesis Supervisor
